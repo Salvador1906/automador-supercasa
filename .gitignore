@@ -1,3 +1,20 @@
-credentials.json
+# Perfil local do Chrome do Playwright (ignorados em todos os SOs)
 perfil_chrome_supercasa/
+perfil_chrome_supercasa.nosync/
+
+# Ficheiros compilados e temporários do Python
 __pycache__/
+*.pyc
+
+# Ambientes virtuais
+venv/
+.venv/
+
+# Dados extraídos (opcional, caso não queiras subir o CSV)
+*.csv
+
+# CREDENCIAIS DE SEGURANÇA (CRÍTICO!)
+credentials.json
+
+# Ficheiros ocultos do macOS
+.DS_Storessss
