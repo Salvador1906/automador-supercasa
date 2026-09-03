@@ -1,3 +1,5 @@
+
+
 # 🏠 Automador de Extração Imobiliária (Supercasa ➔ Google Sheets)
 
 Um pipeline completo de Web Scraping e integração Cloud que extrai dados de anúncios imobiliários e atualiza automaticamente uma folha do Google Sheets em tempo real. 
